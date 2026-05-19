@@ -12,4 +12,5 @@ I'll be updating to add more PCBs and maybe an updated schematic at some point.
 I hope you get something out of my hard work! :D
 Thanks!
 Willem Brandsma, Owner
-Estatron LLC. 
+Estatron LLC, Estatron.com
+maker of what I think is the best electrostatic audio equipment in the world.
